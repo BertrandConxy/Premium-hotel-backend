@@ -1,4 +1,9 @@
 {
+  "name": "premium-hotel-backend",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT License",
   "devDependencies": {
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
